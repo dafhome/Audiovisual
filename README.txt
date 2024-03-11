@@ -1,0 +1,1 @@
+En este repositorio subo el ejercicio donde probábamos a integrar un video y una canción en la web de cantantes. El código está un poco mezclado porque reutilizamos uno anterior. 
